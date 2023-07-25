@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@auth0/auth0-react": "^2.0.0",
     "@types/node": "^16.11.36",
     "@types/react": "^17.0.47",
     "@types/react-dom": "^17.0.17",
